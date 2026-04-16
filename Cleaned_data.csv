@@ -1,0 +1,67 @@
+age,gender,student_type,sleep_hours,sleep_time,daytime_alertness,seating_preference,attention_level,class_participation,phone_usage_lecture,screen_time,phone_during_study,study_hours,assignment_start_time,time_management,cgpa,academic_satisfaction,academic_stress
+20,Male,Early Bird (Most productive in morning),8.0,10 PM – 12 AM,6,Back,5,Sometimes,5,7.545454545454546,Sometimes,5.0,Immediately after given,8,7.7,7,9.0
+20,Female,Night Owl (Most productive at night),6.0,10 PM – 12 AM,7,Front,5,Sometimes,0,2.0,Often,1.0,1–2 days before deadline,7,9.05,2,8.0
+19,Male,Night Owl (Most productive at night),6.0,After 2 AM,1,Back,3,Never,25,8.0,Always,0.0,On the deadline day,1,8.2,3,7.0
+20,Male,Night Owl (Most productive at night),6.0,12 AM – 2 AM,6,Back,7,Never,30,10.0,Sometimes,1.0,1–2 days before deadline,5,8.6,8,10.0
+20,Male,Neutral,7.0,12 AM – 2 AM,10,Back,7,Sometimes,10,6.0,Sometimes,3.0,1–2 days before deadline,6,8.27,3,7.0
+21,Male,Neutral,8.0,12 AM – 2 AM,7,Back,6,Rarely,20,12.0,Often,3.0,1–2 days before deadline,6,8.65,9,6.0
+20,Male,Night Owl (Most productive at night),7.0,After 2 AM,6,Middle,4,Rarely,5,6.0,Often,1.0,On the deadline day,4,8.2,5,7.0
+19,Female,Early Bird (Most productive in morning),9.0,12 AM – 2 AM,9,Middle,8,Rarely,10,8.0,Never,9.0,Immediately after given,8,9.5,8,7.0
+19,Male,Early Bird (Most productive in morning),9.0,Before 10 PM,10,Front,10,Never,0,3.0,Never,10.0,Immediately after given,10,10.0,10,1.0
+20,Male,Early Bird (Most productive in morning),8.0,After 2 AM,8,Back,9,Frequently,45,8.0,Always,4.0,On the deadline day,9,9.2,9,2.0
+21,Male,Night Owl (Most productive at night),5.0,12 AM – 2 AM,6,Back,5,Rarely,25,6.0,Sometimes,6.0,Few days before deadline,5,8.27,4,5.0
+19,Female,Night Owl (Most productive at night),6.0,After 2 AM,5,Middle,3,Never,30,13.0,Often,2.0,1–2 days before deadline,5,6.7,7,9.0
+20,Male,Night Owl (Most productive at night),6.0,12 AM – 2 AM,6,Back,5,Sometimes,30,7.0,Often,6.0,1–2 days before deadline,6,7.1,4,7.0
+20,Male,Night Owl (Most productive at night),5.0,12 AM – 2 AM,7,Back,4,Frequently,30,10.0,Always,3.0,Few days before deadline,10,8.27,6,8.0
+20,Male,Night Owl (Most productive at night),6.0,12 AM – 2 AM,8,Back,6,Rarely,40,10.0,Sometimes,3.0,1–2 days before deadline,5,7.69,7,4.0
+20,Male,Night Owl (Most productive at night),6.0,After 2 AM,5,Back,5,Rarely,30,10.0,Always,3.0,Immediately after given,5,8.6,5,5.0
+19,Male,Night Owl (Most productive at night),9.0,10 PM – 12 AM,5,Back,7,Sometimes,35,9.0,Always,8.0,1–2 days before deadline,5,9.2,4,6.0
+20,Male,Early Bird (Most productive in morning),7.0,12 AM – 2 AM,7,Middle,4,Sometimes,30,6.0,Always,2.0,Few days before deadline,6,8.65,6,9.0
+20,Male,Night Owl (Most productive at night),9.0,Before 10 PM,8,Back,9,Rarely,15,6.0,Sometimes,4.0,On the deadline day,8,8.2,6,6.0
+19,Female,Night Owl (Most productive at night),6.0,After 2 AM,2,Back,4,Rarely,25,6.0,Often,3.0,Few days before deadline,4,6.7,3,9.0
+20,Male,Night Owl (Most productive at night),6.0,After 2 AM,10,Front,6,Never,15,5.0,Often,5.0,On the deadline day,6,8.27,3,7.0
+19,Male,Night Owl (Most productive at night),8.0,After 2 AM,3,Back,4,Rarely,30,7.0,Often,4.0,1–2 days before deadline,4,7.69,1,10.0
+20,Female,Night Owl (Most productive at night),6.0,12 AM – 2 AM,7,Back,5,Sometimes,10,8.0,Often,5.0,On the deadline day,6,8.27,6,9.0
+20,Male,Night Owl (Most productive at night),7.0,After 2 AM,5,Back,5,Rarely,30,10.0,Always,3.0,On the deadline day,5,8.27,5,5.0
+19,Male,Early Bird (Most productive in morning),6.0,12 AM – 2 AM,4,Middle,5,Sometimes,20,12.0,Often,0.5,1–2 days before deadline,1,7.1,4,7.0
+20,Female,Night Owl (Most productive at night),7.0,After 2 AM,6,Back,5,Never,30,5.0,Never,4.0,1–2 days before deadline,5,9.5,5,9.0
+20,Male,Night Owl (Most productive at night),6.0,12 AM – 2 AM,6,Front,5,Frequently,15,9.0,Often,3.0,1–2 days before deadline,6,9.05,6,8.0
+20,Male,Night Owl (Most productive at night),8.0,12 AM – 2 AM,6,Front,4,Never,25,10.0,Sometimes,3.0,Few days before deadline,4,8.27,4,8.0
+20,Male,Night Owl (Most productive at night),5.0,After 2 AM,7,Back,4,Sometimes,5,5.0,Sometimes,2.0,On the deadline day,6,7.7,4,7.0
+20,Male,Early Bird (Most productive in morning),6.0,10 PM – 12 AM,4,Back,3,Sometimes,20,6.0,Sometimes,3.0,Few days before deadline,1,8.27,3,3.0
+20,Male,Early Bird (Most productive in morning),8.0,After 2 AM,7,Middle,5,Rarely,25,6.0,Sometimes,6.0,1–2 days before deadline,7,8.2,4,5.0
+20,Male,Night Owl (Most productive at night),8.0,12 AM – 2 AM,6,Middle,5,Sometimes,60,9.0,Always,2.0,Immediately after given,4,8.27,6,10.0
+20,Male,Night Owl (Most productive at night),8.0,12 AM – 2 AM,8,Back,6,Sometimes,40,7.0,Sometimes,3.0,On the deadline day,7,7.69,7,6.0
+20,Male,Night Owl (Most productive at night),6.0,10 PM – 12 AM,7,Back,4,Rarely,25,2.0,Often,4.0,Few days before deadline,7,6.7,4,10.0
+20,Male,Night Owl (Most productive at night),7.0,12 AM – 2 AM,7,Back,6,Rarely,10,5.0,Sometimes,3.0,Few days before deadline,7,8.27,5,8.0
+20,Female,Early Bird (Most productive in morning),6.0,12 AM – 2 AM,8,Middle,6,Rarely,10,10.0,Never,3.0,Few days before deadline,7,8.27,3,7.0
+20,Male,Early Bird (Most productive in morning),8.0,12 AM – 2 AM,6,Middle,5,Rarely,30,2.0,Sometimes,5.0,On the deadline day,6,9.2,4,7.0
+19,Male,Night Owl (Most productive at night),9.0,10 PM – 12 AM,9,Back,8,Sometimes,20,13.0,Sometimes,1.0,1–2 days before deadline,5,8.27,5,5.0
+20,Male,Night Owl (Most productive at night),6.5,12 AM – 2 AM,6,Middle,3,Sometimes,15,8.0,Always,3.0,1–2 days before deadline,6,8.65,5,8.0
+20,Female,Night Owl (Most productive at night),7.0,12 AM – 2 AM,6,Back,5,Sometimes,30,8.0,Sometimes,6.0,1–2 days before deadline,6,8.65,4,7.0
+20,Male,Night Owl (Most productive at night),6.0,Before 10 PM,6,Back,6,Never,10,13.0,Sometimes,1.0,Immediately after given,4,8.2,5,9.0
+20,Male,Night Owl (Most productive at night),9.0,12 AM – 2 AM,6,Back,4,Rarely,20,5.0,Always,1.5,1–2 days before deadline,8,8.2,6,7.0
+19,Female,Night Owl (Most productive at night),8.0,Before 10 PM,5,Middle,4,Rarely,25,13.0,Sometimes,4.0,1–2 days before deadline,5,6.7,6,9.0
+20,Male,Early Bird (Most productive in morning),9.0,12 AM – 2 AM,6,Back,4,Rarely,10,6.0,Always,1.5,Immediately after given,5,8.6,5,7.0
+20,Male,Night Owl (Most productive at night),7.0,10 PM – 12 AM,7,Back,5,Rarely,10,6.0,Always,1.0,Immediately after given,5,9.5,4,7.0
+19,Male,Early Bird (Most productive in morning),6.0,12 AM – 2 AM,10,Back,10,Sometimes,0,6.0,Sometimes,10.0,Immediately after given,10,10.0,10,1.0
+20,Male,Night Owl (Most productive at night),8.0,Before 10 PM,9,Front,9,Sometimes,25,3.0,Sometimes,3.0,Few days before deadline,7,8.2,5,5.0
+20,Male,Night Owl (Most productive at night),6.0,12 AM – 2 AM,7,Middle,7,Sometimes,10,6.0,Never,8.0,Few days before deadline,8,8.2,6,8.0
+20,Male,Night Owl (Most productive at night),6.0,12 AM – 2 AM,6,Middle,7,Rarely,30,6.0,Never,1.0,Few days before deadline,5,7.1,6,7.0
+20,Male,Neutral,6.0,12 AM – 2 AM,6,Middle,8,Never,35,6.0,Never,6.0,Few days before deadline,7,8.27,5,6.0
+20,Male,Early Bird (Most productive in morning),8.0,After 2 AM,5,Back,4,Never,40,10.0,Always,2.0,Immediately after given,3,8.65,4,6.0
+19,Male,Early Bird (Most productive in morning),9.0,After 2 AM,7,Back,5,Rarely,5,10.0,Often,9.0,1–2 days before deadline,7,7.1,7,7.0
+20,Male,Night Owl (Most productive at night),7.0,10 PM – 12 AM,8,Back,9,Sometimes,25,10.0,Often,3.0,1–2 days before deadline,7,7.7,3,5.0
+20,Male,Early Bird (Most productive in morning),7.0,12 AM – 2 AM,7,Back,6,Rarely,10,6.0,Always,3.0,Immediately after given,6,7.1,7,6.0
+19,Male,Night Owl (Most productive at night),7.0,10 PM – 12 AM,4,Back,8,Sometimes,15,6.0,Sometimes,3.0,Few days before deadline,5,10.0,5,3.0
+19,Male,Night Owl (Most productive at night),9.0,After 2 AM,3,Back,9,Never,15,7.0,Sometimes,4.5,1–2 days before deadline,8,9.5,9,6.0
+20,Male,Early Bird (Most productive in morning),8.0,12 AM – 2 AM,6,Middle,6,Rarely,30,10.0,Often,2.0,On the deadline day,5,8.2,5,7.0
+20,Male,Early Bird (Most productive in morning),6.0,10 PM – 12 AM,6,Front,5,Sometimes,40,13.0,Sometimes,3.0,1–2 days before deadline,4,7.69,5,9.0
+21,Female,Night Owl (Most productive at night),6.0,After 2 AM,5,Back,6,Never,25,7.0,Often,3.0,On the deadline day,4,8.27,4,7.0
+19,Male,Night Owl (Most productive at night),5.0,12 AM – 2 AM,7,Middle,6,Sometimes,30,10.0,Sometimes,4.0,Few days before deadline,7,8.6,2,3.0
+20,Male,Night Owl (Most productive at night),7.0,12 AM – 2 AM,7,Front,6,Never,30,6.0,Always,3.0,Few days before deadline,7,9.2,9,7.0
+20,Male,Night Owl (Most productive at night),5.0,12 AM – 2 AM,6,Middle,5,Never,5,7.0,Often,2.0,On the deadline day,7,9.2,5,9.0
+19,Male,Night Owl (Most productive at night),7.0,12 AM – 2 AM,9,Back,9,Never,15,8.0,Always,8.0,1–2 days before deadline,8,8.6,8,5.0
+20,Male,Early Bird (Most productive in morning),8.0,12 AM – 2 AM,5,Back,5,Never,30,10.0,Often,3.0,1–2 days before deadline,5,6.7,5,8.0
+20,Male,Night Owl (Most productive at night),7.0,12 AM – 2 AM,10,Back,8,Sometimes,5,6.0,Sometimes,6.0,1–2 days before deadline,8,6.7,8,7.0
+20,Male,Night Owl (Most productive at night),6.0,12 AM – 2 AM,7,Back,5,Sometimes,20,6.0,Sometimes,5.0,Few days before deadline,6,8.27,4,7.0
