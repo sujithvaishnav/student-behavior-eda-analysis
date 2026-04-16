@@ -4,6 +4,17 @@ This project explores the relationship between student classroom behavior, lifes
 
 ---
 
+## Project Structure
+```
+├── Code.ipynb # Main analysis notebook
+├── Raw_dataset.csv # Original dataset
+├── Cleaned_dataset.csv # Preprocessed dataset
+├── Report.pdf # Detailed report
+└── README.md
+```
+
+---
+
 ## Objective
 
 To analyze how factors such as study habits, screen time, sleep patterns, and classroom behavior influence:
@@ -13,62 +24,34 @@ To analyze how factors such as study habits, screen time, sleep patterns, and cl
 
 ---
 
-## Dataset
 
-- **Source:** Primary data collected via Google Forms survey  
-- **Samples:** 66 student responses  
-- **Features:** 18 variables  
+## Tech Stack
 
-### Includes:
-- Classroom behavior (participation, seating preference)
-- Lifestyle habits (sleep, screen time)
-- Academic metrics (CGPA, stress levels)
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- Statistical Analysis (Chi-square, Correlation)
 
 ---
 
-## Data Preprocessing
+## How to Run
 
-- Removed irrelevant columns (e.g., timestamp)
-- Cleaned inconsistent entries (e.g., "6 hours", "8–9 hours")
-- Handled missing values using:
-  - Mean imputation
-  - Median imputation
-- Converted data types for numerical analysis
+1. Clone the repository
+```bash
+git clone https://github.com/sujithvaishnav/student-behavior-eda-analysis.git
+cd student-behavior-eda-analysis
+```
 
+2. Install Dependency
+``` bash
+pip install pandas numpy matplotlib seaborn
+```
+
+3. Run the Notebook
 ---
 
-## Exploratory Data Analysis (EDA)
+## 📄 Report
 
-Key observations:
-- Most students study **2–5 hours/day**
-- Screen time averages around **5–7 hours/day**
-- Academic stress levels are generally moderate to high
-
----
-
-## Statistical Analysis
-
-### Techniques Used:
-- **Chi-Square Test (Hypothesis Testing)**
-- **Pearson Correlation Analysis**
-
-### Key Results:
-- Most relationships showed **p-value > 0.05**
-  → No statistically significant association  
-- Weak negative correlation between:
-  - Phone usage & attention (**-0.16**)  
-- Weak relationships between:
-  - Sleep vs stress  
-  - Screen time vs stress  
-
----
-
-## Key Insights
-
-- Classroom behavior (seating, participation) showed **no strong impact** on CGPA  
-- Lifestyle factors had **weak influence** on stress levels  
-- Suggests other hidden factors (motivation, teaching quality) may play a larger role  
-
----
-
-## Project Structure
+A detailed explanation of methodology, analysis, and findings is available in:
+`report.pdf`
